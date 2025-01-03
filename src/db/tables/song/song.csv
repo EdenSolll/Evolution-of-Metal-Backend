@@ -1,0 +1,93 @@
+id, year, title, artist, src, genre_id
+1, 1984, Death Metal, Possessed, DeathMetal.mp3, 1
+2, 1985, Necromancer, Sepultura, Necromancer.mp3, 1
+3, 1986, Messiah, Messiah, Messiah.mp3, 1
+4, 1987, Deathrash, Sarcófago, Deathrash.mp3, 1
+5, 1988, Leprosy, Death, Leprosy.mp3, 1
+6, 1989, Immortal Rites, Morbid Angel, ImmortalRites.mp3, 1
+7, 1990, Left Hand Path, Entombed, LeftHandPath.mp3, 1
+8, 1991, Override Of The Overture, Dismember, OverrideOfTheOverture.mp3, 1
+9, 1992, Hammer Smashed Face, Cannibal Corpse, HammerSmashedFace.mp3, 1
+10, 1993, When The Sun Drank The Weight Of Water, Demilich, WhentheSunDranktheWeightofWater.mp3, 1
+11, 1994, For Victory, Bolt Thrower, ForVictory.mp3, 1
+12, 1995, Sorcery, Kataklysm, Sorcery.mp3, 1
+13, 1996, Burn With Jesus, Immolation, BurnWithJesus.mp3, 1
+14, 1997, I Am God, Vital Remains, IAmGod.mp3, 1
+15, 1998, Obscura, Goreguts, Obscura.mp3, 1
+16, 1999, Wolflust, Angelcorpse, Wolflust.mp3, 1
+17, 2000, Decrepit Crescendo, Exhumed, DecrepitCrescendo.mp3, 1
+18, 2001, Annihilation, Rebaelliun, Annihilation.mp3, 1
+19, 2002, Pit Of Zombies, Cannibal Corpse, PitOfZombies.mp3, 1
+20, 2003, Remembrance, Gojira, Remembrance.mp3, 1
+21, 2004, Eaten, Bloodbath, Eaten.mp3, 1
+22, 2005, This Is The War, Vader, ThisIsTheWar.mp3, 1
+23, 2006, Alchemy Of The Black Sun Cult, Goatwhore, AlchemyOfTheBlackSunCult.mp3, 1
+24, 2007, Infernal Damnation, Interment, InfernalDamnation.mp3, 1
+25, 2008, Graves Of The Archangels, Dead Congregation, GraveOfTheArchangels.mp3, 1
+26, 2009, Entering A Superior Dimension, The Chasm, EnteringASuperiorDimension.mp3, 1
+27, 2010, Beasts That Perish, Ares Kingdom, BeastsThatPerish.mp3, 1
+28, 2011, The Abjection, Azarath, TheAbjection.mp3, 1
+29, 2012, Forced Gender Reassignment, Cattle Decapitation, ForcedGenderReassignment.mp3, 1
+30, 2013, Open The Crypt, Krypts,	OpenTheCrypt.mp3, 1
+31, 2014, Impalement Of Divinity, Incantation, ImpalementOfDivinity.mp3, 1
+32, 2015, Telomeric Erosion, Abyssal, TelomericErosion.mp3, 1
+33, 2016, 争乱ノ死地ヘ (Into The Jaws Of Death), 兀突骨 Gotsu Totsu Kotsu, IntoTheJawsOfDeath.mp3, 1
+34, 2017, The 420th Crusade, Cannabis Corpse, The420thCrusade.mp3, 1
+35, 2018, Open Grave, Ripped To Shreds, OpenGrave.mp3, 1
+36, 2019, Slave Species Of The Gods, Blood Incantation, SlaveSpeciesOfTheGods.mp3, 1
+37, 2020, Regurgitated Communion, Of Feather And Bone, Regurgitated Communion.mp3, 1
+38, 2021, "The Plague Spreading Horror From 20,000 Fathoms", Oxygen Destroyer, "ThePlagueSpreadingHorrorFrom20,000 Fathoms.mp3", 1
+39, 2022, Evolutionary Inversion, INANNA,	 EvolutionaryInversion.mp3, 1
+40, 2023, Helionomicon,	 Ulthar, Helionomicon.mp3, 1
+41, 2004, 봄바람, 길닦음, 봄바람.mp3, 2
+42, 2005, Le secret, Alcest, LeSecret.mp3, 2
+43, 2006, Ruines humaines, Amesoeurs, RuinesHumaines.mp3, 2
+44, 2007, Souvenirs D'Un Autre Monde, Alcest, SouvenirsD\'unAutreMonde.mp3, 2
+45, 2008, Kalte Tage, Lantlôs, KalteTage.mp3, 2
+46, 2009, This Dreadful Emptiness, Austere, ThisDreadfulEmptiness.mp3, 2
+47, 2011, Fatigue, Heretoir, Fatigue.mp3, 2
+48, 2010, These Nights Were Ours, Lantlôs, TheseNightsWereOurs.mp3, 2
+49, 2011, Fatigue, Heretoir, Fatigue.mp3, 2
+50, 2012, Lungs Filled With Water, Harakiri For The Sky, LungsFilledWithWater.mp3, 2
+51, 2013, Dream House, Deafheaven, DreamHouse.mp3, 2
+52, 2014, Like Falling Leaves, Woods of Desolation, LikeFallingLeaves.mp3, 2
+53, 2015, The Long Goodbye, An Autumn For Crippled Children, TheLongGoodbye.mp3, 2
+54, 2016, The Root That Grows Among The Rocks, An Open Letter, TheRootThatGrowsAmongTheRocks.mp3, 2
+55, 2017, To Stay, Sadness, ToStay.mp3, 2
+56, 2018, Bruma, Møl, Bruma.mp3, 2
+57, 2019, I Want To Be With You, Sadness, IWantToBeWithYou.mp3, 2
+58, 2020, Empathica II: Everwinter, Unreqvited, EmpathicaIIEverwinter.mp3.mp3, 2
+59, 2021, Nails, Sonhos Tomam Conta, Nails.mp3, 2
+60, 2022, Chimera, 明日の叙景, Chimera.mp3, 2
+61, 2023, The Glory Of The Ocean, Agriculture, TheGloryOfTheOcean.mp3, 2
+62, 1993, Lost Wisdom, Burzum, LostWisdom.mp3, 3
+63, 1994, Nattevandring, Strid, Nattevandring.mp3, 3
+64, 1995, Depression, Abyssic Hate, Depression.mp3, 3
+65, 1996, Schatten Aus Der Alexander Welt, Bethlehem, SchattenAusDerAlexanderWelt.mp3, 3
+66, 1997, Slayer Of Lost Martyrs, Krohm, SlayerOfLostMartyrs.mp3, 3
+67, 1998, Fragments, I Shalt Become, Fragments.mp3, 3
+68, 1999, Vandrer Blandt Dødninge, Sortsind, Vandrer Blandt Dødninge.mp3, 3
+69, 2000, Betrayed, Abyssic Hate, Betrayed, 3
+70, 2001, Death - Pierce Me, Silencer, Death-PierceMe.mp3, 3
+71, 2002, Disheartenment, Forgotten Tomb, Disheartenment.mp3 , 3
+72, 2003, The Idiot Sun, Leviathan, TheIdiotSun.mp3, 3
+73, 2004, Screaming At Forgotten Tears, Xasthur, ScreamingAtForgottenTears.mp3, 3
+74, 2005, Chapter III, Make A Change... Kill Yourself, ChapterIII.mp3 , 3
+75, 2006, Total Self-Hatred, Totalselfhatered, TotalSelf-Hatred.mp3, 3
+76, 2007, Le Gala Des Gens Heureux, Gris, LeGalaDesGensHeureux.mp3, 3
+77, 2008, Tortured By Solitude, Cold World, TorturedBySolitude.mp3, 3
+78, 2009, This Dreadful Emptiness, Austere, 3
+79, 2010, We're All Better Off Dead, Nocturnal Depression, We'reAllBetterOffDead.mp3, 3
+80, 2011, Expandera, Lifelover, Expandera.mp3, 3
+81, 2012, Nostalgie I, Trist, NostalgieI.mp3, 3
+82, 2013, The Bridge, Thy Light, TheBridge.mp3, 3
+83, 2014, Useless, Sadness, Useless.mp3, 3
+84, 2015, Beware The Silence, Psychonaut 4, BewareTheSilence.mp3, 3
+85, 2016, Golden Number, Ghost Bath, GoldenNumber.mp3, 3
+86, 2017, Melancholic Overdose, My Useless Life, MelancholicOverdose.mp3, 3
+87, 2018, A Waning Silhouette, Begotten, AWaningSilhouette.mp3, 3
+88, 2019, The Damp Chill of Life, None, TheDampChillofLife.mp3, 3
+89, 2020, I Left This Life To Rot, Suizid, ILeftThisLifeToRot.mp3, 3
+90, 2021, Mental Central Dialog, Sorry..., MentalCenteralDialog.mp3, 3
+91, 2022,	Психоз, Neboplachet, Психоз.mp3, 3
+92, 2023, Abuse, Forgotten., Abuse.mp3, 3
