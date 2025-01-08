@@ -29,7 +29,7 @@ async fn main() -> std::io::Result<()> {
         let cors = if *SECURITY_ENABLED {
             Cors::default()
                 .allowed_origin(&env::var("DOMAIN").unwrap_or("localhost".to_string()))
-                .allowed_origin("https://localhost:5173")
+                .allowed_origin("localhost")
                 .allowed_methods(vec!["GET", "POST", "PUT", "DELETE"])
         } else {
             Cors::permissive()
