@@ -28,7 +28,7 @@ async fn main() -> std::io::Result<()> {
     HttpServer::new(move || {
         let cors = if *SECURITY_ENABLED {
             Cors::default()
-                .allowed_origin(&env::var("DOMAIN").unwrap_or("localhost".to_string()))
+                .allow_any_origin()
                 .allowed_methods(vec!["GET", "POST", "PUT", "DELETE"])
         } else {
             Cors::permissive()

@@ -44,7 +44,7 @@ id, year, title, artist, src, genre_id
 43, 2006, Ruines humaines, Amesoeurs, RuinesHumaines.mp3, 2
 44, 2007, Souvenirs D'Un Autre Monde, Alcest, SouvenirsD\'unAutreMonde.mp3, 2
 45, 2008, Kalte Tage, Lantlôs, KalteTage.mp3, 2
-46, 2009, This Dreadful Emptiness, Austere, 2
+46, 2009, To Lay Like Old Ashes, Austere, ToLayLikeOldAshes.mp3, 2
 47, 2010, These Nights Were Ours, Lantlôs, TheseNightsWereOurs.mp3, 2
 48, 2011, Fatigue, Heretoir, Fatigue.mp3, 2
 49, 2012, Lungs Filled With Water, Harakiri For The Sky, LungsFilledWithWater.mp3, 2
@@ -52,10 +52,10 @@ id, year, title, artist, src, genre_id
 51, 2014, Like Falling Leaves, Woods of Desolation, LikeFallingLeaves.mp3, 2
 52, 2015, The Long Goodbye, An Autumn For Crippled Children, TheLongGoodbye.mp3, 2
 53, 2016, The Root That Grows Among The Rocks, An Open Letter, TheRootThatGrowsAmongTheRocks.mp3, 2
-54, 2017, Sugar Wounds, Sugar Wounds, SugarWounds.mp3 2
+54, 2017, Sugar Wounds, Sugar Wounds, SugarWounds.mp3, 2
 55, 2018, Bruma, Møl, Bruma.mp3, 2
 56, 2019, I Want To Be With You, Sadness, IWantToBeWithYou.mp3, 2
-57, 2020, Empathica II: Everwinter, Unreqvited, EmpathicaIIEverwinter.mp3.mp3, 2
+57, 2020, Empathica II: Everwinter, Unreqvited, EmpathicaIIEverwiter.mp3.mp3, 2
 58, 2021, Nails, Sonhos Tomam Conta, Nails.mp3, 2
 59, 2022, Chimera, 明日の叙景, Chimera.mp3, 2
 60, 2023, The Glory Of The Ocean, Agriculture, TheGloryOfTheOcean.mp3, 2
@@ -92,18 +92,18 @@ id, year, title, artist, src, genre_id
 91, 2022,	Психоз, Neboplachet, Психоз.mp3, 3
 92, 2023, Abuse, Forgotten., Abuse.mp3, 3
 93, 1982, Black Metal, Venom, BlackMetal.mp3, 4
-94, 1983, Black Magic, Slayer, BlackMagic.mp3 , 4
+94, 1983, Black Magic, Slayer, BlackMagic.mp3, 4
 95, 1984, Massacra, Hellhammer, Massacra.mp3, 4
-96, 1985, Outbreak of Evil, Sodom, OutbreakOfEvil.mp3 , 4
-97, 1986, Spirits of Evil, Vulcano SpiritsOfEvil.mp3, 4
+96, 1985, Outbreak of Evil, Sodom, OutbreakOfEvil.mp3, 4
+97, 1986, Spirits of Evil, Vulcano, SpiritsOfEvil.mp3, 4
 98, 1987, Deathcrush, Mayhem, Deathcrush.mp3, 4
-99, 1988, A Fine Day to Die, Bathory, AFineDayToDie.mp3 , 4
+99, 1988, A Fine Day to Die, Bathory, AFineDayToDie.mp3, 4
 100, 1989, Agonized to Suicide, Mortem, AgonizedToSuicide.mp3, 4
-101, 1990, Fallen Angel of Doom, Blasphemy, FallenAngelOfDoom.mp3 , 4
+101, 1990, Fallen Angel of Doom, Blasphemy, FallenAngelOfDoom.mp3, 4
 102, 1991, Pád Modly, Master's Hammer, PádModly.mp3, 4
 103, 1992, Kathaarian Life Code, Darkthrone, KathaarianLifeCode.mp3, 4
 104, 1993, Dark Medieval Times, Satyricon, DarkMedievalTimes.mp3, 4
-105, 1994, I Am The Black Wizards, Emperor, IAmTheBlackWizards.mp3 , 4
+105, 1994, I Am The Black Wizards, Emperor, IAmTheBlackWizards.mp3, 4
 106, 1995, Night's Blood, Dissection, NightsBlood.mp3 , 4
 107, 1996, Dunkelheit, Burzum, Dunkelheit.mp3, 4
 108, 1997, Hymne I - Wolf and Fear, Ulver, HymneIWolfAndFear.mp3, 4
