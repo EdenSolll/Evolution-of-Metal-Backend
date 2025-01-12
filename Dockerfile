@@ -17,10 +17,10 @@ COPY . .
 RUN cargo build --release
 
 # Production stage
-FROM archlinux:latest
-
-COPY --from=builder /app/target/release/backend .
+FROM docker.io/debian:bookworm
 
 WORKDIR /usr/local/bin
+
+COPY --from=builder /app/target/release/backend .
 
 CMD ["./backend"]
