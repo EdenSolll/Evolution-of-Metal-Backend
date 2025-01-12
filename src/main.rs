@@ -30,6 +30,9 @@ async fn main() -> std::io::Result<()> {
             Cors::default()
                 .allowed_origin(&env::var("DOMAIN").unwrap_or("localhost".to_string()))
                 .allowed_origin("http://localhost:5173")
+                .allowed_origin(
+                    "https://evolution-of-metal-frontend-metalwebsite.apps.okd4.csh.rit.edu",
+                )
                 .allowed_methods(vec!["GET", "POST", "PUT", "DELETE"])
         } else {
             Cors::permissive()
