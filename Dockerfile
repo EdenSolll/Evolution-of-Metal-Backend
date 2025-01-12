@@ -1,5 +1,6 @@
 # Build stage
-FROM rust:latest as builder
+FROM rust:latest as base
+FROM base as builder
 
 WORKDIR /app
 
@@ -17,7 +18,7 @@ COPY . .
 RUN cargo build --release
 
 # Production stage
-FROM docker.io/debian:bookworm
+FROM base
 
 WORKDIR /usr/local/bin
 
