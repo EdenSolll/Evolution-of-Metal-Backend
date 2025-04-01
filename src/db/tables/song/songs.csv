@@ -8,7 +8,7 @@ id, year, title, artist, src, genre_id
 7, 1990, Left Hand Path, Entombed, LeftHandPath.mp3, 1
 8, 1991, Override Of The Overture, Dismember, OverrideOfTheOverture.mp3, 1
 9, 1992, Hammer Smashed Face, Cannibal Corpse, HammerSmashedFace.mp3, 1
-10, 1992, When The Sun Drank The Weight Of Water, Demilich, WhentheSunDranktheWeightofWater.mp3, 1
+10, 1993, When The Sun Drank The Weight of Water, Demilich, WhentheSunDranktheWeightofWater.mp3, 1
 11, 1994, For Victory, Bolt Thrower, ForVictory.mp3, 1
 12, 1995, Sorcery, Kataklysm, Sorcery.mp3, 1
 13, 1996, Burn With Jesus, Immolation, BurnWithJesus.mp3, 1
@@ -59,7 +59,6 @@ id, year, title, artist, src, genre_id
 58, 2021, Nails, Sonhos Tomam Conta, Nails.mp3, 2
 59, 2022, Chimera, 明日の叙景, Chimera.mp3, 2
 60, 2023, The Glory Of The Ocean, Agriculture, TheGloryOfTheOcean.mp3, 2
-61, 2024, Pale Morning Horizon, abriction, PaleMorningHorizon.mp3, 2
 62, 1993, Lost Wisdom, Burzum, LostWisdom.mp3, 3
 63, 1994, Nattevandring, Strid, Nattevandring.mp3, 3
 64, 1995, Depression, Abyssic Hate, Depression.mp3, 3
@@ -107,8 +106,8 @@ id, year, title, artist, src, genre_id
 106, 1995, Night's Blood, Dissection, NightsBlood.mp3 , 4
 107, 1996, Dunkelheit, Burzum, Dunkelheit.mp3, 4
 108, 1997, Hymne I - Wolf and Fear, Ulver, HymneIWolfAndFear.mp3, 4
-109, 1998, Open the Gates, Gorgoroth, OpenTheGates.mp3 , 4
-110, 1999, Withstand The Fall Of Time, Immortal, WithstandTheFallOfTime.mp3,
+109, 1998, Open the Gates, Gorgoroth, OpenTheGates.mp3, 4
+110, 1999, Withstand The Fall Of Time, Immortal, WithstandTheFallOfTime.mp3, 4
 111, 2000, I Am the Wargod (Ode to the Battle Slain), Deströyer 666, IAmTheWargod.mp3, 4
 112, 2001, Todeswalzer, Windir, Todeswalzer.mp3, 4
 113, 2002, Embraced by the Unholy Powers of Death and Destruction, Inquisition, EmbracedByTheUnholyPowersOfDeathAndDestruction.mp3, 4
@@ -133,3 +132,25 @@ id, year, title, artist, src, genre_id
 132, 2021, Fn .380 Acp#19074, 1914, Fn380Acp19074.mp3, 4
 133, 2022, II, Scarcity, ScarcityII.mp3, 4
 134, 2023, Cedar Skeletons, Panopticon, CedarSkeletons.mp3, 4
+135, 2002, Dreaming In Dog Years, The Red Chord, DreamingInDogYears.mp3, 5
+136, 2003, Laid To Rest, All Shall Perish, LaidToRest.mp3, 5
+137, 2004, Carbomb, The Acacia Strain, Carbomb.mp3, 5
+138, 2005, Entombment Of A Machine, Job For A Cowboy, EntombmentOfAMachine.mp3, 5
+139, 2006, Pray For Plagues, Bring Me The Horizon, PrayForPlagues.mp3, 5
+140, 2007, No Pity For A Coward, Suicide Silence, NoPityForACoward.mp3, 5
+141, 2008, This Is Exile, Whitechapel, ThisIsExile.mp3, 5
+142, 2009, Aspiration, After The Burial, Aspiration.mp3, 5
+143, 2010, Dark Passenger, Veil Of Maya, DarkPassenger.mp3, 5
+144, 2011, Recreate, Born of Osiris, Recreate.mp3, 5
+145, 2012, Widower, Make Them Suffer, Widower.mp3, 5
+146, 2013, Reign Of Darkness, Thy Art Is Murder, ReignOfDarkness.mp3, 5
+147, 2014, Playing With Fire, Chelsea Grin, PlayingWithFire.mp3, 5
+148, 2015, Leech, AngelMaker, Leech.mp3, 5
+149, 2016, Blasphemian, Infant Annihilator, Blasphemian.mp3, 5
+150, 2017, The Heretic Prevails, Shadow of Intent, TheHereticPrevails.mp3, 5
+151, 2018, Eclipse, Brand Of Sacrifice, Eclipse.mp3, 5
+152, 2019, Baba Yaga, Slaughter To Prevail, BabaYaga.mp3, 5
+153, 2020, Insects, DarkoUS, Insects.mp3, 5
+154, 2021, To The Hellfire, Lorna Shore, ToTheHellfire.mp3, 5
+155, 2022, Far From Heaven, Fit For An Autopsy, FarFromHeaven.mp3, 5
+156, 2023, Amongst the Low & Empty, Signs Of The Swarm, AmongstTheLow&Empty.mp3, 5

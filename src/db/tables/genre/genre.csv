@@ -1,6 +1,13 @@
-id, genre, start_year, y_axis
-1, Death Metal, 1984, 50
-2, Blackgaze, 2003, 100
-3, Depressive Suicidal Black Metal, 1994, 105
-4, Black Metal, 1982, 200
-5, Deathcore, 2002, 10
+id, genre, start_year, y_axis, color
+1, Death Metal, 1984, 250, Red
+2, Blackgaze, 2004, 330, Black
+3, Depressive Suicidal Black Metal, 1993, 320, Black
+4, Black Metal, 1982, 300, Black
+5, Deathcore, 2002, 20, Orange
+6, Amtospheric Black Metal, 1994, 310, Black
+7, Heavy Metal, 1970, 200, Green
+8, Thrash Metal, 1983, 180, Maroon
+9, Doom Metal, 1970, 450, Grey
+10, Grindcore, 1987, 280, Purple
+11, Alternative Metal, 1985, 50, Yellow
+12, Metalcore, 1992, 30, Orange
